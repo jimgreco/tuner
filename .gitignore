@@ -1,0 +1,10 @@
+.DS_Store
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+
+# Generated test and Python output
+*.xcresult/
+__pycache__/
+*.py[cod]
